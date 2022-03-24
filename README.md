@@ -39,3 +39,8 @@ python manage.py runserver
 ```
 python manage.py migrate
 ```
+
+* Criar superuser para usar Django Admin:
+```
+python manage.py createsuperuser
+```
